@@ -6,7 +6,7 @@
 
 ```
 npm i -g pnpm
-pnpm m link
+pnpm m link --ignore-scripts
 ```
 
 ## How it works?
@@ -44,5 +44,5 @@ You can use `lerna`.
 
 ```
 pnpm m run test
-pnpm m run test --scope 
+pnpm m run test --scope X
 ```
