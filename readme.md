@@ -46,3 +46,15 @@ You can use `lerna`.
 pnpm m run test
 pnpm m run test --scope X
 ```
+
+---
+
+## pnpm compatibility
+
+Had to patch `create-universal-package` because of an issue with pnpm and `args`.
+
+See `packages/public/create-universal-package/packages/create-universal-package/bin/index.js:9`
+
+All packages link to `create-universal-package` in this repo now too.
+
+`fusion-react-async` wasn't linking to it because it was fixed to version `create-universal-package@3.4.4`, so `pnpm m link` wouldn't link to it. I bumped the version.
