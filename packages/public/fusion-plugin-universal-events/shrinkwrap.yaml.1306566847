@@ -1,0 +1,13 @@
+dependencies:
+  eslint-config-fusion: 'link:../eslint-config-fusion'
+  fusion-core: 'link:../fusion-core'
+  fusion-test-utils: 'link:../fusion-test-utils'
+  fusion-tokens: 'link:../fusion-tokens'
+registry: 'https://registry.npmjs.org/'
+shrinkwrapMinorVersion: 1
+shrinkwrapVersion: 3
+specifiers:
+  eslint-config-fusion: ^4.0.0
+  fusion-core: ^1.3.0
+  fusion-test-utils: ^1.1.0
+  fusion-tokens: ^1.0.3

@@ -1,0 +1,58 @@
+{
+  "name": "probot-app-workflow",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "probot run",
+    "test": "jest",
+    "now-start": "PRIVATE_KEY=$(echo $PRIVATE_KEY | base64 -d) npm start"
+  },
+  "dependencies": {
+    "probot": "7.0.1",
+    "probot-app-deploy": "1.0.3",
+    "probot-app-label-docs-pr": "1.0.2",
+    "probot-app-label-release-pr": "1.0.4",
+    "probot-app-license": "1.0.2",
+    "probot-app-merge-pr": "1.0.3",
+    "probot-app-migrations": "1.0.5",
+    "probot-app-pr-title": "^1.1.5",
+    "probot-app-release": "1.0.4",
+    "probot-app-release-notes": "1.0.6",
+    "probot-app-release-pr-compare": "1.0.1",
+    "probot-app-todos": "1.0.5"
+  },
+  "probot": {
+    "apps": [
+      "probot-app-deploy",
+      "probot-app-label-docs-pr",
+      "probot-app-label-release-pr",
+      "probot-app-license",
+      "probot-app-merge-pr",
+      "probot-app-migrations",
+      "probot-app-pr-title",
+      "probot-app-release",
+      "probot-app-release-notes",
+      "probot-app-release-pr-compare",
+      "probot-app-todos",
+      "./src/release-verification.js"
+    ]
+  },
+  "engines": {
+    "node": "^8.9.0"
+  },
+  "devDependencies": {
+    "babel-jest": "^23.2.0",
+    "babel-preset-env": "^1.7.0",
+    "jest-cli": "^23.3.0",
+    "jest-environment-node": "23.4.0",
+    "smee-client": "^1.0.2"
+  },
+  "jest": {
+    "cache": false,
+    "testEnvironment": "node",
+    "transform": {
+      "^.+\\.jsx?$": "babel-jest"
+    },
+    "testRegex": "src/.*__tests__/.*.test.js$"
+  }
+}

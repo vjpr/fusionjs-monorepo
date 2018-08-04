@@ -1,0 +1,11 @@
+# TODO get the nyc_output put into .fusion
+.nyc_output
+.fusion
+.vscode
+.DS_Store
+config/secrets/secrets.json
+selenium-debug.log
+yarn-error.log
+node_modules
+npm-debug.log
+reports

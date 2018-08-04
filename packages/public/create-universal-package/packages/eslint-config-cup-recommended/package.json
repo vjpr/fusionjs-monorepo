@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-cup-recommended",
+  "version": "2.0.1",
+  "description": "The recommended ESLint config for create-universal-package",
+  "author": "Ryan Tsao <ryan.j.tsao@gmail.com>",
+  "homepage": "https://github.com/rtsao/create-universal-package",
+  "repository": "git@github.com:rtsao/create-universal-package.git",
+  "bugs": "https://github.com/rtsao/create-universal-package/issues",
+  "scripts": {
+    "test": "echo TODO tests"
+  },
+  "main": "eslintrc.js",
+  "dependencies": {
+    "eslint-config-cup": "^2.0.1",
+    "eslint-plugin-prettier": "^2.6.0"
+  },
+  "peerDependencies": {
+    "eslint": "5.x"
+  },
+  "devDependencies": {
+    "eslint": "5.x"
+  },
+  "engines": {
+    "node": ">= 6"
+  },
+  "license": "MIT"
+}

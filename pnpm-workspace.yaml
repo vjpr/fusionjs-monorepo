@@ -1,0 +1,4 @@
+packages:
+  - 'packages/**'
+  - '!packages/public/create-fusion-plugin/templates/plugin/content'
+  - '!packages/public/fusion-plugin-connected-react-router'

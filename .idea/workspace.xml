@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93eb00aa-90eb-4429-aaa1-2a42ed98ccc6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pnpm-debug.log" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1537190005">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cup" value="9" />
+          <entry key="cup-build" value="4" />
+          <entry key="cup-build-tests" value="1" />
+          <entry key="cup-clean" value="2" />
+          <entry key="eslint" value="1" />
+          <entry key="gitgnore" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="js" value="47" />
+          <entry key="json" value="21" />
+          <entry key="log" value="5" />
+          <entry key="md" value="7" />
+          <entry key="npmrc" value="7" />
+          <entry key="yaml" value="6" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Bash" value="17" />
+          <entry key="JSON" value="21" />
+          <entry key="JavaScript" value="47" />
+          <entry key="Log" value="5" />
+          <entry key="Markdown" value="7" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="YAML" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cup" value="13" />
+          <entry key="js" value="726" />
+          <entry key="json" value="5" />
+          <entry key="md" value="1288" />
+          <entry key="npmrc" value="67" />
+          <entry key="yaml" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bash" value="13" />
+          <entry key="JSON" value="5" />
+          <entry key="JavaScript" value="726" />
+          <entry key="Markdown" value="1288" />
+          <entry key="PLAIN_TEXT" value="67" />
+          <entry key="YAML" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.npm/_logs/2018-08-04T16_34_58_782Z-debug.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider">
+            <state relative-caret-position="476">
+              <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="280">
+                <caret line="20" selection-start-line="20" selection-end-line="20" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+          <provider editor-type-id="Gfm" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>run</find>
+      <find>binary</find>
+      <find>this.binary</find>
+      <find>args/</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/packages/fusion-rpc-redux/node_modules/.registry.npmjs.org/args/4.0.0/node_modules/args/lib</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/packages/args/lib/parse.js" />
+        <option value="$PROJECT_DIR$/packages/fusion-react-async/package.json" />
+        <option value="$PROJECT_DIR$/.vjpr/readme.md" />
+        <option value="$PROJECT_DIR$/.npmrc" />
+        <option value="$PROJECT_DIR$/packages/create-fusion-plugin/templates/plugin/content/node_modules/create-universal-package/package.json" />
+        <option value="$PROJECT_DIR$/packages/create-fusion-plugin/templates/plugin/content/package.json" />
+        <option value="$PROJECT_DIR$/pnpm-workspace.yaml" />
+        <option value="$PROJECT_DIR$/packages/private/readme.md" />
+        <option value="$PROJECT_DIR$/packages/community/readme.md" />
+        <option value="$PROJECT_DIR$/.gitgnore" />
+        <option value="$PROJECT_DIR$/readme.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path>/usr/local/bin/flow</exe-path>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/browser-tests/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/create-fusion-app/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/create-fusion-app/templates/basic/content/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/create-fusion-plugin/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/create-fusion-plugin/templates/plugin/content/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/create-universal-package/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/create-universal-package/packages/babel-plugin-transform-cup-globals/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/create-universal-package/packages/create-universal-package/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/create-universal-package/packages/eslint-config-cup-recommended/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/create-universal-package/packages/eslint-config-cup/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/create-universal-package/packages/eslint-plugin-cup/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/create-universal-package/packages/fixture-dependency-pure/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/create-universal-package/packages/fixture-package-separate-indexes/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/create-universal-package/packages/fixture-package/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/eslint-config-fusion/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-apollo-universal-client/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-apollo/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-cli/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-core/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-apollo-server/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-browser-performance-emitter/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-connected-react-router/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-csrf-protection-react/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-csrf-protection/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-error-handling/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-font-loader-react/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-http-handler/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-i18n-react/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-i18n/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-jwt/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-node-performance-emitter/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-react-helmet-async/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-react-redux/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-react-router/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-redux-action-emitter-enhancer/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-rpc-redux-react/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-rpc/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-styletron-react/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-universal-events-react/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-universal-events/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-plugin-universal-logger/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-react-async/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-react/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-rpc-redux/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-scaffolder/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-scaffolder/test/fixtures/shared/noop/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-test-utils/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusion-tokens/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusionjs.github.io/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/fusionjs.github.io/plugins/gatsby-remark-transform-links/package.json" />
+      <path value="$PROJECT_DIR$/packages/public/probot-app-workflow/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="17" />
+    <option name="y" value="-1220" />
+    <option name="width" value="1920" />
+    <option name="height" value="1173" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fusionjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fusionjs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fusionjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fusionjs" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fusionjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fusionjs" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="private" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fusionjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fusionjs" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/nvm/versions/node/v8.1.2/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/nvm/versions/node/v8.9.0/lib/node_modules/prettier" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93eb00aa-90eb-4429-aaa1-2a42ed98ccc6" name="Default Changelist" comment="" />
+      <created>1533386267086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533386267086</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="17" y="-1220" width="1920" height="1173" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5961028" visible="true" weight="0.190625" />
+      <window_info id="Structure" order="1" sideWeight="0.40389726" side_tool="true" weight="0.12708333" />
+      <window_info id="Palette&#9;" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.53274333" side_tool="true" weight="0.115625" />
+      <window_info content_ui="combo" id="Remote Host" order="4" sideWeight="0.5300885" side_tool="true" weight="0.123958334" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Floobits" order="0" />
+      <window_info anchor="bottom" id="Quokka" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" sideWeight="0.48351002" weight="0.31681415" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.48586267" weight="0.28849557" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.4979827" weight="0.2681416" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32920355" />
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.32920355" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32920355" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4811543" visible="true" weight="0.23451327" />
+      <window_info anchor="bottom" id="Application Servers" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5188457" side_tool="true" weight="0.28938052" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.29823008" />
+      <window_info anchor="bottom" id="IDEtalk Messages" order="15" />
+      <window_info anchor="bottom" id="Script Monkey" order="16" />
+      <window_info anchor="bottom" id="Run Dashboard" order="17" />
+      <window_info anchor="bottom" id="Flow" order="18" weight="0.26283187" />
+      <window_info anchor="bottom" id="Thumbnails" order="19" weight="0.32920355" />
+      <window_info anchor="bottom" id="TypeScript" order="20" />
+      <window_info anchor="bottom" id="Time Tracking" order="21" weight="0.2079646" />
+      <window_info anchor="bottom" id="Database Changes" order="22" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="23" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Reviews" order="24" />
+      <window_info anchor="right" id="Key Promoter" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24973376" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Designer" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32960597" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32916668" />
+      <window_info anchor="right" x="1151" y="305" width="324" height="467" id="IDEtalk" order="7" weight="0.16875" />
+      <window_info anchor="right" id="Armory" order="8" />
+      <window_info anchor="right" id="Plugins" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+      <window_info anchor="right" x="100" y="123" width="1720" height="973" id="Documentation" order="11" type="FLOATING" />
+      <window_info anchor="right" id="Dynamic Properties" order="12" />
+      <window_info anchor="right" id="GfmBrowser" order="13" />
+      <window_info anchor="right" id="News Feed" order="14" />
+      <window_info anchor="right" id="SciView" order="15" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/packages/create-fusion-plugin/templates/plugin/content/package.json" />
+    <entry file="file://$PROJECT_DIR$/packages/fusion-plugin-connected-react-router/package.json" />
+    <entry file="file://$PROJECT_DIR$/.npmrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/private/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="42">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/community/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret column="85" selection-start-column="85" selection-end-column="85" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pnpm-workspace.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pnpmfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/public/fusion-plugin-jwt/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitgnore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.npm/_logs/2018-08-04T16_34_58_782Z-debug.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="476">
+          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="280">
+            <caret line="20" selection-start-line="20" selection-end-line="20" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>actionmailer (v2.3.14, RVM: ruby-1.8.7-p370) [gem]</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
